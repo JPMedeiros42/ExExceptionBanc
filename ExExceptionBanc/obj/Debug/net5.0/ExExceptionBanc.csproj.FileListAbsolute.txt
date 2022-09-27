@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\bin\Debug\net5.0\ExExceptionBanc.exe
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\bin\Debug\net5.0\ExExceptionBanc.deps.json
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\bin\Debug\net5.0\ExExceptionBanc.runtimeconfig.json
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\bin\Debug\net5.0\ExExceptionBanc.runtimeconfig.dev.json
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\bin\Debug\net5.0\ExExceptionBanc.dll
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\bin\Debug\net5.0\ref\ExExceptionBanc.dll
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\bin\Debug\net5.0\ExExceptionBanc.pdb
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\obj\Debug\net5.0\ExExceptionBanc.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\obj\Debug\net5.0\ExExceptionBanc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\obj\Debug\net5.0\ExExceptionBanc.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\obj\Debug\net5.0\ExExceptionBanc.AssemblyInfo.cs
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\obj\Debug\net5.0\ExExceptionBanc.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\obj\Debug\net5.0\ExExceptionBanc.dll
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\obj\Debug\net5.0\ref\ExExceptionBanc.dll
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\obj\Debug\net5.0\ExExceptionBanc.pdb
+C:\Users\peter\source\repos\ExExceptionBanc\ExExceptionBanc\obj\Debug\net5.0\ExExceptionBanc.genruntimeconfig.cache
